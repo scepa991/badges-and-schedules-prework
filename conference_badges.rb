@@ -22,5 +22,5 @@ def assign_rooms(array)
     nuarrey.push("Hello, #{name}! You'll be assigned to room #{counter}!" )
     counter += 1
   end 
-  return nuarrey
+  return nuarray
 end
